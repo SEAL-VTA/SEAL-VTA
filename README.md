@@ -1,5 +1,5 @@
 ### Hi there 👋
-- I'm Hieu, an IT student at FPT University.
+- I'm Hieu, a regular IT student at FPT University.
 - I’m currently learning Javascript, NodeJS and ReactJS to become a fullstack dev in the future.
 
 <!--
