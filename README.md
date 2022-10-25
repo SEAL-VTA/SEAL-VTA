@@ -1,6 +1,6 @@
 ### Hi there 👋
 - I'm Hieu, a regular IT student at FPT University.
-- I’m currently learning Javascript, NodeJS and ReactJS to become a fullstack dev in the future.
+- I’m currently learning Javascript, NodeJS and ReactJS to become a fullstack developer in the future.
 
 <!--
 **SEAL-VTA/SEAL-VTA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
